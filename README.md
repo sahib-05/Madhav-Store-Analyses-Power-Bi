@@ -1,12 +1,12 @@
 # Madhav E-Commerce Sales Dashboard – Power BI
--Project Overview
+- Project Overview
 
 This Power BI dashboard provides a clear and interactive overview of e-commerce sales performance.
 It helps understand sales, profit, quantity sold, customer behavior, and category-wise performance at a glance.
 
 The dashboard is designed for business users and management to quickly analyze performance and make data-driven decisions.
 
--Objective
+- Objective
 
 Track overall sales and profit
 
@@ -30,7 +30,7 @@ Total Orders (Row Count): 6,664
 
 These KPIs give a quick summary of business performance.
 
--Dashboard Visuals Explanation
+- Dashboard Visuals Explanation
 1️⃣ Sales by State
 
 Bar chart showing total sales amount across states
@@ -67,7 +67,7 @@ Monthly profit comparison (January, February, December)
 
 Highlights seasonal trends and business growth
 
--Filters & Interactivity
+- Filters & Interactivity
 
 State slicer allows filtering data by state
 
@@ -75,7 +75,7 @@ All visuals are interactive and connected
 
 Selecting any visual updates the entire dashboard
 
--Tools & Technologies Used
+- Tools & Technologies Used
 
 Power BI Desktop
 
@@ -85,7 +85,7 @@ DAX Measures
 
 Interactive Visualizations
 
--Key Insights
+- Key Insights
 
 Certain states contribute higher sales volume
 
@@ -95,7 +95,7 @@ Some sub-categories are high sales but low profit
 
 Payment preferences vary across customers
 
--Conclusion
+- Conclusion
 
 This dashboard provides a complete business overview in one screen.
 It is easy to understand, visually clean, and decision-oriented, making it suitable for sales analysis, management reporting, and interviews.
